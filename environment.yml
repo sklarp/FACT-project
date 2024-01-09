@@ -12,11 +12,12 @@ dependencies:
     - jupyter==1.0.0
     - scikit-learn==0.23.0
     - scipy==1.5.4
-    - torch==1.8.0        # PyTorch version
-    - torchvision==0.9.0  # torchvision version compatible with PyTorch 1.8.0
-    - tqdm==4.59.0        # tqdm version
-    - pandas==1.2.3       # pandas version
-    - transformers==4.5.0 # transformers version
-    - pillow==8.1.0       # PIL (Pillow) version
-    - opencv-python-headless==4.5.1.48 # OpenCV version
-    - pytorchtools==0.0.2 # Assuming a specific version for the custom EarlyStopping tool
+    - torch==1.8.0        
+    - torchvision==0.9.0  
+    - tqdm==4.59.0        
+    - pandas==1.2.3       
+    - transformers==4.30.2 
+    - pillow==8.1.0       
+    - opencv-python-headless==4.5.1.48 
+    - pytorchtools==0.0.2 
+    - sentencepiece==0.1.99
