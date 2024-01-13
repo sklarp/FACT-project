@@ -12,3 +12,9 @@ Reviewing the paper: "what do you meme? generating explanations for visual seman
 conda env create -f path/to/environment.yml
 ```
 - Place `pytorchtools.py` in same dir as `notebook.ipynb`
+
+### Generate Captions using OFA
+
+<a target="_blank" href="https://colab.research.google.com/github/danilotpnta/FACT-project/blob/master/get_image_caption.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
