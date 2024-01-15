@@ -5,3 +5,6 @@ OFA/
 cocoapi/
 HVV_EXPGEN_DATASET-saved-model/
 .DS_Store
+**/.DS_Store
+HVV_EXPGEN_DATASET/.DS_Store
+
